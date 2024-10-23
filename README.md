@@ -34,6 +34,7 @@ Furthermore, this project explores the impact of using **log-transformed data** 
 - Compare model performance to **choose the best model** for accurate loan prediction.
 - Evaluate the impact of using **log-transformed data** versus original data on model accuracy.
 - Test the model with **new data** to determine if a loan will be **approved or denied**.
+- Determine **feature Importance** for the selected model.
 
 ## Data Source
 The dataset used in this project contains records of past loans, including **demographic information**, **loan details**, and **borrower profiles**. The data was sourced from **Kaggle** as loan_prediction.csv' and can be accessed via the following link:[Kaggle Loan Dataset](https://www.kaggle.com/)
